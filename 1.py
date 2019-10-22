@@ -1,0 +1,10 @@
+gravitational_constant = 6.67*10**(-11)
+speed_of_light = 3*10**8
+elemental_charge = 1.6*10**(-19)
+acceleration_of_gravity = 9.81
+proton_mass = 1.7*10**(-27)
+neutron_mass = 1.7*10*(-27)
+electron_magnetic_moment = -928.5*10**(-26)
+proton_magnetic_moment = 1.4*10**(-26)
+magneton_bora = 927.4*10**(-26)
+constant_faraday = 96485.3
